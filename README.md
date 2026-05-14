@@ -1,5 +1,5 @@
 # Faithful Madu
-**`Backend Engineer · CS Student · Future Founder`**
+**`Software Engineer · Fullstack Developer`**
 
 I'm a software engineer and and aspiring founder shipping real products | GPS attendance systems, ML pipelines, community platforms, and Chrome extensions. My path is deliberate: **backend depth first, AI engineering next**. Python and JavaScript today. Go tomorrow. C++ after that. No shortcuts.
 
