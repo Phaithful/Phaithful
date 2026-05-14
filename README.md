@@ -29,11 +29,4 @@ I'm a software engineer and and aspiring founder shipping real products | GPS at
 
 #
 
-### 🚀 What I'm Building in 2026
 
-| Project | Description | Stack |
-|---|---|---|
-| **APRIS** | Adaptive ML prediction & recommendation system | Python · FastAPI · ML |
-| **G-Map** | GPS-based campus attendance — no QR, no Wi-Fi | Python · GPS |
-| **Apple Bot** | Rule-based Chrome extension for content rating | TypeScript · React · MV3 |
-| **Outreach** | Community platform with real-time chat & auth | PHP · JS · WebSockets |
